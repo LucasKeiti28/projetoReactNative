@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/lucaskeiti/modulo06/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/lucaskeiti/modulo06/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/lucaskeiti/modulo06/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Folly/folly/Portability.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Folly/folly/CPortability.h \
+  /Users/lucaskeiti/modulo06/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/lucaskeiti/modulo06/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/lucaskeiti/modulo06/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/lucaskeiti/modulo06/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
+  /Users/lucaskeiti/modulo06/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/lucaskeiti/modulo06/node_modules/react-native/React/Base/RCTUtils.h
